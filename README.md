@@ -2,5 +2,5 @@
 
 ## How to use
 
-- Add `<link href="https://iosevka-webfonts.github.io/unhinted-iosevkatermcurly/iosevkatermcurly-unhinted.css" rel="stylesheet" />` to your `<head>`.
-- Use `fontFamily: 'Iosevkatermcurly Web'` or `font-family: 'Iosevkatermcurly Web'`.
+- Add `<link href="https://iosevka-webfonts.github.io/unhinted-iosevkatermcurly/IosevkaTermCurly-Unhinted.css" rel="stylesheet" />` to your `<head>`.
+- Check out the [CSS file](./IosevkaTermCurly-Unhinted.css) for browsing the name of font family.
